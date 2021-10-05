@@ -1,4 +1,4 @@
-Median Filter
+<h1>Median Filter</h1>
 The median filter calculates the median of the pixel intensities that surround the center pixel in a n x n kernel.<br>
 The median then replaces the pixel intensity of the center pixel.<br>
 The median filter does a better job of removing salt and pepper noise than the mean and Gaussian filters. <br>
